@@ -1,1 +1,14 @@
-{}
+[
+  {
+    "id": "TELEGRAM_GROUP",
+    "title": "👬 Join telegram group",
+    "content": "You can report any issues and talk your thoughts",
+    "ignorable": true,
+    "links": [
+      {
+        "href": "https://t.me/Quillbot_Premium_Free_chat",
+        "text": "Join Now!"
+      }
+    ]
+  }
+]
